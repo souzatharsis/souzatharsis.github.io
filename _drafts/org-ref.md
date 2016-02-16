@@ -6,54 +6,27 @@ tags: [references, emacs, org-mode]
 comments: true
 ---
 
-Writing academic papers is hard. Managing citations shouldn't be.
-Since a lot of people struggle with this, I thought that I would share
-how I manage references in academic papers. This is geared towards
-writing papers in LaTeX and relies on emacs heavily. I use several
-emacs packages to deal with references: `reftex`, `org-mode,` and
-`org-ref`. 
-
-In your emacs dotfile you'll need to set up reftex and org-ref. 
-
-# Bib files
-A bib file keeps information about all of your references in an
-organized method. One of the nice things about this is that you don't
-have to actually cite everything in this file. So instead of having a
-separate reference list for each article you're writing, you can just
-put your bib file in your dropbox and cite articles in it with
-something like `\citep{key}` in your latex document. 
-
-An entry in your bib file looks something like this: 
-
-```
-@article{lupia1994,
-  author =       {Lupia, Arthur},
-  title =        {Shortcuts Versus Encyclopedias: Information and
-                  Voting Behavior in California Insurance Reform
-                  Elections},
-  journal =      {American Political Science Review},
-  volume =       {88},
-  number =       {01},
-  pages =        {63--76},
-  year =         {1994},
-}
-```
-
-
+I've already written one post about
+[reference management using a bib file](/blog/2015/09/reference-management.html)
+and another about
+[harnessing the power of emacs to make references in latex](/blog/2015/09/emacs-for-social-science.html).
+What could be left? For most people, probably nothing. Those two posts
+are enough to have a pretty decent setup. So what more could we want? 
 
 # Enter org-ref
 
-## Using org-ref in latex files
+For a while, I thought that was good enough. But then I found
+`org-ref.` And ho-boy, is that thing awesome. It can *automatically*
+download a properly formatted reference and add it to your bib file.
+While it does that, it checks whether you have the article downloaded
+already and if not, it tries to download it for you. 
 
-Here's the packages you need to load in the preamble:
+Once you've got a reference in your bib file, you can easily navigate
+to the paper (if you have it downloaded) with a simple `M-X
+org-ref-open-bibtex-pdf`. It automatically opens the file for you (in
+emacs, of course). You can also go to your notes for that article with
+`M-x org-ref-open-bibtex-notes`. 
 
-```
-\usepackage{natbib}
-```
+## Setup 
 
-Then wherever you want your reference list to print you need:
-
-```
-\bibliogrpahystyle{chicago}
-\bibliography{path/to/bibfile}
-```
+## Usage 
