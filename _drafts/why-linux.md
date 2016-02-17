@@ -28,6 +28,25 @@ telling me different things, I was eventually told to call Dell's
 technical support (it's a Dell laptop). So I did that. 
 
 Mistake. Dell gave me the runaround for a while before telling me that
-I should contact Microsoft again. 
+I should contact Microsoft again. Rather than do that, I tried to
+revert to Windows 8. After all, Microsoft had sold Windows 10 partly
+because they said that you could easily revert back to your previous
+version of Windows if you didn't like it. 
+
+Mistake. That didn't work at all. At this point I was left with a
+perfectly functioning computer, except that it wouldn't boot into any
+sort of functional operating system. 
+
+At this point I had two options: One, I could call Microsoft again and
+explain everything that happened and hope that they could help. After
+all the time on the phone with them and Dell, though, I really didn't
+relish that idea again. 
+
+Two, I could install this other operating system I had sorta kinda
+heard of but knew basically nothing about: Linux. 
+
+At this point, I was upset (which might be an understatement) with
+Microsoft/Dell/Windows, so I decided to say "F**k it" and install
+Linux.
 
 # Why I stayed with Linux
