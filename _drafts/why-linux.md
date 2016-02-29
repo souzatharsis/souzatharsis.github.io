@@ -50,3 +50,6 @@ Microsoft/Dell/Windows, so I decided to say "F**k it" and install
 Linux.
 
 # Why I stayed with Linux
+Ohmygod so many reasons. 
+
+### Disadvantages of linux
