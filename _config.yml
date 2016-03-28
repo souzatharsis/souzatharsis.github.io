@@ -1,13 +1,12 @@
 # Site settings
-title: J. Alexander Branham
-email: branham@utexas.edu
+title: Thársis T. P. Souza
+email: T.Souza@cs.ucl.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a PhD Candidate in the Department of Government at UT-Austin.
-  I study American politics, public opinion, and methods. 
+  I'm a Ph.D. Candidate in Financial Computing and Analytics at the University College London. 
 # baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://jabranham.com" # the base hostname & protocol for your site
-twitter_username: JAlexBranham
-github_username:  jabranham
+url: "souzatharsis.github.io" # the base hostname & protocol for your site
+twitter_username: souzatharsis
+github_username:  souzatharsis
 permalink: /blog/:year/:month/:title.html
 gems:
   - jekyll-sitemap
