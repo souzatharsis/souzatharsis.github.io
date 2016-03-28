@@ -2,8 +2,7 @@
 
 This is my personal website.
 
-Feel free to fork this project in order to get your own site going (
-J. Alexander Branham has
+Feel free to fork this project in order to get your own site going (J. Alexander Branham has
 [blog post](http://jabranham.com/blog/2016/01/making-academic-website.html)
 that should help you get started), but please note the license
 (below).
