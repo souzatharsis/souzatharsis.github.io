@@ -5,19 +5,9 @@ layout: default
 <img style="width=305px;height=435px;float:left;padding:10px;"
 src="/image/personal_photo.jpg" alt="profile picture" width="120" height="264">
 
-I am a PhD Candidate at [UT-Austin](https://www.utexas.edu) in the
-[Department of Government](http://www.utexas.edu/cola/government/).  I
-study American politics, public opinion, and methodology.  In 2013, I
-received my MA from [Temple University](https://temple.edu) in
-political science. I completed my undergraduate education at
-[Ursinus College](https://ursinus.edu) in 2011.
+I am a Ph.D. Candidate at [University College London](http://www.ucl.ac.uk/) in the
+[Department of Computer Science](http://www.cs.ucl.ac.uk/). I'm part of the Research Group in [Financial Computing and Analytics](http://fincomp.cs.ucl.ac.uk/).  
 
 Some of my current research is listed in on [this page](/Research/).
-If you're interested in obtaining a draft of any of the working
-papers, please feel free to email me.
-
-My teaching experience is listed [here](/Teaching/) along with (some)
-of my notes.
-
-If you want a pdf of my CV, you can get that [here](/cv/cv.pdf)
+My teaching experience is listed [here](/Teaching/).
 
