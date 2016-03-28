@@ -4,13 +4,29 @@ title: Research
 permalink: /Research/
 ---
 
-Feel free to [email me](mailto:branham@utexas.edu) to request a copy
-of any of the working papers.
 
-* Under Review
-  + Campaign Shocks and Election Support: Evidence from Brazil 2014 (with Brendan Apfeld)
-  + When do the Rich Win? (with Stuart Soroka and Christopher Wlezien)
-    + Covered by [Washington Monthly](http://www.washingtonmonthly.com/ten-miles-square/2016/02/to_influence_policy_you_have_t059643.php)
-  + Modeling Spending Preferences & Policy (with Stephen Jessee)
-* Working papers
-  + Partisan Feedback
+It all started when my father taught me some notions of Visual Basic, and with the priceless help of the code completion tool (yeah, no Google at that time). Since then, I've been enjoying coding and here you can find some of the programs I've written.
+
+### Research
+
+* [**Multiscale Combinatorial Grouping**](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)<br>
+Current state-of-the-art method for producing segmented object proposals. Given an image, it computes around 5000 proposals of segmented objects in less than 30 seconds on a single thread. From our CVPR 2014 paper.
+
+* [**SEISM: Supervised Evaluation of Image Segmentation Methods**](http://www.vision.ee.ethz.ch/~biwiproposals/seism/index.html)<br>
+Toolbox to benchmark image segmentation methods, including our newly-proposed objects and parts measure. From our PAMI 2015 and CVPR 2013 papers.
+
+* [**Supervised Assessment of Segmentation Hierarchies**](https://imatge.upc.edu/web/resources/supervised-assessment-segmentation-hierarchies)<br>
+Toolbox to find the best cuts in a hierarchy of regions using combinatorial optimization and solved by CPLEX. From our ECCV 2012 paper.
+ 
+### Didactical
+
+* [**Solving Sudokus like a Pro**](http://jponttuset.github.io/solving-sudokus-like-a-pro-1/)<br>
+Code to capture a camera feed, locate a Sudoku grid, find and recognize the numbers, solve it in real time, and overlay the results.
+
+* [**Web Scraping**](http://jponttuset.github.io/deep-learning-scraping/)<br>
+Demo to answer whether deep learning is indeed in fashion in computer vision. The code scrapes the paper titles of latest vision conferences from the web and computes the percentage of *deep-learning-related* papers.
+
+### Web
+
+* [**Boosting Object Proposals: From Pascal to COCO**](http://www.vision.ee.ethz.ch/~biwiproposals/boosting-coco/)<br>
+Webpage to showcase the results of our publication. It involved a decent amount of JavaScript, D3.js, PHP, and MySQL.
