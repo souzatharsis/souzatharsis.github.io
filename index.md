@@ -8,6 +8,8 @@ src="/image/personal_photo.jpg" alt="profile picture" width="120" height="264">
 I am a Ph.D. Candidate at [University College London](http://www.ucl.ac.uk/) in the
 [Department of Computer Science](http://www.cs.ucl.ac.uk/). I'm part of the Research Group in [Financial Computing and Analytics](http://fincomp.cs.ucl.ac.uk/).  
 
+I Work as Postgraduate Teaching Assistant in Modules of the Masters in Business Analytics, Financial Computing, Financial Risk Management and Computer Science. Academic interest in Quantitative Finance, Statistical Computing, Data Science, Machine Learning, Complex Systems. Thesis on the Financial Markets Impact of News, Social Media and Online Data.
+
 Some of my current research is listed in on [this page](/Research/).
 My teaching experience is listed [here](/Teaching/).
 
