@@ -4,13 +4,13 @@ title: Experience
 permalink: /Experience/
 ---
 ### Teaching Assistant
-<h4>UCL, University of Londonn</h4>
+<h4>UCL, University of London</h4>
 November 2014 – Present. London, United Kingdom
 
 See [Teaching](http://souzatharsis.github.io/Teaching/).
 
 ### Senior Business Analyst, OTC Derivatives
-##### Brazilian Stock Exchange
+<h4> Brazilian Stock Exchange</h4>
 May 2013 – September 2014 (1 year 5 months) | São Paulo Area, Brazil
 
 BM&FBovespa is one of the largest stock exchanges in the world in terms of market value, the
@@ -29,7 +29,7 @@ Plain Vanilla and Exotic: Swaps, Options and Forwards:
 Worked for 3 weeks in San Francisco\USA alongside vendor's specialists.
 
 ### Finance Professor, Derivatives
-##### Profins Business School
+<h4>Profins Business School</h4>
 2013 – 2013 (less than a year)
 
 Modules:
@@ -40,7 +40,7 @@ Modules:
 http://www.profins.com.br/sp/programas/curso.php?id_curso=232
 
 ### IT Business Analyst, Market Risk
-#### Itau-Unibanco
+<h4>Itau-Unibanco</h4>
 2011 – 2013 (2 years) São Paulo Area, Brazil
 
 Itau Unibanco Holding S.A is the largest financial conglomerate in the Southern Hemisphere
@@ -55,5 +55,5 @@ Pricing and Risk of OTC Derivatives.
 Exotic Options, Swaps, Futures, Forwards and others derivatives.
 
 ### Systems Analyst, JAVA
-#### University of Sao Paulo
+<h4>University of Sao Paulo</h4>
 April 2010 – September 2011 (1 year 6 months)
