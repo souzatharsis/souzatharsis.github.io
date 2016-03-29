@@ -19,13 +19,13 @@ Derivatives, MtM, Accrual, Value-at-Risk, Monte Carlo Simulation, Backtesting, S
 
 #### Universidade Estadual de Campinas (Unicamp)
 B.Sc. Computer Engineering
-
+<br>
 ### Schools
 <hr> 
 <br>
 [Zurich Initiative on Computational Economics](http://www.zccfe.uzh.ch/zice16/announcement.html) Jan-2017
 <br>
-
+<br>
 ### Selected Coursework
 <hr> 
 #### UCL, University of London (Ph.D. level)
