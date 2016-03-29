@@ -6,10 +6,10 @@ permalink: /Education/
 ### Academic Degrees
 <hr> 
 
-##### UCL, University of London
+#### UCL, University of London
 Doctor of Philosophy (Ph.D.), Financial Computing and Analytics | 2014-2017
 
-##### Universidade de São Paulo (USP)
+#### Universidade de São Paulo (USP)
 M.Sc. Computer Science, Computational Finance<br>
 Dissertation Title: Finance and Stochastic Simulation on GPUs
 
