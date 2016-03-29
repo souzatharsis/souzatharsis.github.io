@@ -5,20 +5,20 @@ permalink: /Experience/
 ---
 ### Academic Degrees
 <hr> 
-##### UCL, University of London
-###### Doctor of Philosophy (Ph.D.), Financial Computing and Analytics
+#### UCL, University of London
+##### Doctor of Philosophy (Ph.D.), Financial Computing and Analytics
 2014-2017
 
-##### Universidade de São Paulo (USP)
-###### M.Sc. Computer Science, Computational Finance
+#### Universidade de São Paulo (USP)
+##### M.Sc. Computer Science, Computational Finance
 Dissertation Title: Finance and Stochastic Simulation on GPUs
 
-##### Brazilian Stock Exchange
-###### Specialization, Risk Management
+#### Brazilian Stock Exchange
+##### Specialization, Risk Management
 Derivatives, MtM, Accrual, Value-at-Risk, Monte Carlo Simulation, Backtesting, Stress Testing
 
-##### Universidade Estadual de Campinas (Unicamp)
-###### B.Sc. Computer Engineering
+#### Universidade Estadual de Campinas (Unicamp)
+##### B.Sc. Computer Engineering
 Dissertation Title: Finance and Stochastic Simulation on GPUs
 
 ### Schools
