@@ -22,7 +22,7 @@ B.Sc. Computer Engineering
 
 ### Schools
 <hr> 
-
+<br>
 [Zurich Initiative on Computational Economics](http://www.zccfe.uzh.ch/zice16/announcement.html) Jan-2017
 <br>
 
