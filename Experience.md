@@ -10,13 +10,11 @@ permalink: /Experience/
 Doctor of Philosophy (Ph.D.), Financial Computing and Analytics | 2014-2017
 
 #### Universidade de São Paulo (USP)
-M.Sc. Computer Science, Computational Finance
-
+M.Sc. Computer Science, Computational Finance<br>
 Dissertation Title: Finance and Stochastic Simulation on GPUs
 
 #### Brazilian Stock Exchange (BM&FBovespa)
-Specialization, Risk Management
-
+Specialization, Risk Management<br>
 Derivatives, MtM, Accrual, Value-at-Risk, Monte Carlo Simulation, Backtesting, Stress Testing
 
 #### Universidade Estadual de Campinas (Unicamp)
