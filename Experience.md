@@ -4,7 +4,7 @@ title: Experience
 permalink: /Experience/
 ---
 ### Teaching Assistant
-##### UCL, University of London
+**UCL, University of London**
 November 2014 – Present. London, United Kingdom
 
 See [Teaching](http://souzatharsis.github.io/Teaching/).
