@@ -3,8 +3,10 @@ layout: page
 title: Experience
 permalink: /Experience/
 ---
-### Academic Degrees
-<hr> 
+<div class="boxed">
+ <h3> Academic Degrees </h3>
+</div> 
+
 
 
 #### **UCL, University of London**
