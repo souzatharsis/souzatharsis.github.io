@@ -12,6 +12,4 @@ I work as Postgraduate Teaching Assistant in modules of the Masters in Business 
 
 My professional experience is within Technology and Financial Markets: [Brazilian Stock Exchange](http://www.bmfbovespa.com.br/en_us/) and [Itau Bank](http://www.itau.com/).
 
-Some of my current research is listed in on [this page](/Research/).
-My teaching experience is listed [here](/Teaching/).
 
