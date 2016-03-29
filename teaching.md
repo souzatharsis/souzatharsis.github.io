@@ -18,5 +18,5 @@ Matlab programming with financial applications.
 * **M.Sc. Financial Computing**: [**Financial Information Systems**](http://www.cs.ucl.ac.uk/students/syllabus/mscsse/gs07_financial_information_systems/)<br>
 The module provides instruction in the impact and use of information technology in the financial services sector, including exposure to and experience with different kinds of financial services software applications.
 
-* **Computer Science**: [**Introductory Programming**](http://www.cs.ucl.ac.uk/students/syllabus/msccs/gc01_introductory_programming/) and [**Design**](http://www.cs.ucl.ac.uk/students/syllabus/msccs/gc02_design/)<br>
+* **B.Sc. Computer Science**: [**Introductory Programming**](http://www.cs.ucl.ac.uk/students/syllabus/msccs/gc01_introductory_programming/) and [**Design**](http://www.cs.ucl.ac.uk/students/syllabus/msccs/gc02_design/)<br>
 Object-oriented programming. Java. Design and construction of apps software systems.
