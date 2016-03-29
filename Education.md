@@ -20,6 +20,7 @@ Derivatives, MtM, Accrual, Value-at-Risk, Monte Carlo Simulation, Backtesting, S
 #### Universidade Estadual de Campinas (Unicamp)
 B.Sc. Computer Engineering
 <br>
+<br>
 
 ### Schools
 <hr> 
