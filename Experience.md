@@ -23,7 +23,7 @@ Dissertation Title: Finance and Stochastic Simulation on GPUs
 
 ### Schools
 <hr> 
-#### [Zurich Initiative on Computational Economics](http://www.zccfe.uzh.ch/zice16/announcement.html) | Jan-2017
+<h4> [Zurich Initiative on Computational Economics](http://www.zccfe.uzh.ch/zice16/announcement.html) </h4> | Jan-2017
 
 
 ### Selected Coursework
