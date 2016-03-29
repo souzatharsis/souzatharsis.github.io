@@ -7,7 +7,7 @@ permalink: /Experience/
 <hr> 
 
 
-#### *UCL, University of London*
+#### **UCL, University of London**
 Doctor of Philosophy (Ph.D.), Financial Computing and Analytics
 
 2014-2017
