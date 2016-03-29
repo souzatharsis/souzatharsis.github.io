@@ -5,8 +5,11 @@ permalink: /Experience/
 ---
 ### Academic Degrees
 <hr> 
-#### UCL, University of London
-##### Doctor of Philosophy (Ph.D.), Financial Computing and Analytics
+
+
+#### *UCL, University of London*
+Doctor of Philosophy (Ph.D.), Financial Computing and Analytics
+
 2014-2017
 
 #### Universidade de São Paulo (USP)
