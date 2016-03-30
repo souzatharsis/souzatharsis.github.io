@@ -4,7 +4,7 @@ title: Teaching
 permalink: /Teaching/
 ---
 
-Below some of the modules which I've collaborated as Teaching Assistant in the Department of Computer Science at UCL.
+Below some of the modules with which I have collaborated as Teaching Assistant in the Department of Computer Science at UCL.
 
 * **M.Sc. Business Analytics**: [**Data Analytics**](http://www.cs.ucl.ac.uk/students/syllabus/msc_financial_risk_management/g011_data_analytics/)<br>
 Statistical tools to uncover patterns and laws in complex datasets will be introduced to students together with instruments to analyse, characterize, validate, parameterize and model complex data.
