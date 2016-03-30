@@ -39,7 +39,7 @@ $on-laptop:        800px;
     }
 }
 
-
+div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; padding: 0em 0em; background: #ffffee; border: none;}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
