@@ -5,7 +5,7 @@ permalink: /Education/
 ---
 ### Academic Degrees
 <hr> 
-<br>
+
 
 #### UCL, University of London
 Doctor of Philosophy (Ph.D.), Financial Computing and Analytics | 2014-2017
@@ -32,7 +32,8 @@ B.Sc. Computer Engineering
 
 ### Selected Coursework
 <hr>
-<br>
+
+
 #### UCL, University of London (Ph.D. level)
 * Adaptive Modeling of Complex Data
 * Social Network Analysis
