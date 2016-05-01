@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img style="width=305px;height=435px;float:left;padding:10px;"
+<img style="width=305px;height=435px;float:left;padding:9px;"
 src="/image/p2.jpg" alt="profile picture" width="133" height="200">
 
 I am a Ph.D. Candidate at [University College London (UCL)](http://www.ucl.ac.uk/) in the
