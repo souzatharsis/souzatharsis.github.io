@@ -26,9 +26,17 @@ B.Sc. Computer Engineering
 ### Schools
 <hr> 
 <br>
-[Zurich Initiative on Computational Economics](http://www.zccfe.uzh.ch/zice16/announcement.html) Jan-2017
-<br>
-<br>
+####Zurich Initiative on Computational Economics | Jan-2017
+
+State-of-the-art numerical methods and computer technology, and their application to economic modeling and analysis. 
+
+#### Doctoral Summer School - League of European Research Universities | Jul-2017
+
+One of the only two PhD students nominated by UCL to attend the annual Doctoral Summer School organized by the League of European Research Universities.
+
+Theme: "Data Stewardship for Scientific Discovery and Innovation"
+
+The main aim is to prepare students for future complex, data-intensive, multi-stakeholder and multi-disciplinary scientific methods and collaborations.
 
 ### Selected Coursework
 <hr>
