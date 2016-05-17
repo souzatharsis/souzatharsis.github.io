@@ -26,7 +26,7 @@ B.Sc. Computer Engineering
 ### Schools
 <hr> 
 <br>
-####Zurich Initiative on Computational Economics | Jan-2017
+#### Zurich Initiative on Computational Economics | Jan-2017
 
 State-of-the-art numerical methods and computer technology, and their application to economic modeling and analysis. 
 
