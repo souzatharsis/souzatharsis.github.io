@@ -19,9 +19,19 @@ https://www.kaggle.com/c/the-winton-stock-market-challenge
 
 Full PhD scholarship covering fees and stipend towards the completion of research focused on financial computing at UCL, University of London.
 
-- <h4> Bursary for the Zurich Initiative on Computational Economics </h4> 
+- <h4> Bursary for Doctoral Winter School - Zurich Initiative on Computational Economics </h4> 
 
-http://www.zccfe.uzh.ch/zice16/announcement.html
+State-of-the-art numerical methods and computer technology, and their application to economic modeling and analysis. 
+
+http://www.zccfe.uzh.ch/en/pastevents/zice16/announcement.html
+
+- <h4> Bursary for Doctoral Summer School - League of European Research Universities </h4> 
+
+One of the only two PhD students nominated by UCL to attend the annual Doctoral Summer School organized by the League of European Research Universities.
+
+Theme: ‘’Data Stewardship for Scientific Discovery and Innovation’’
+
+The main aim is to prepare students for future complex, data-intensive, multi-stakeholder and multi-disciplinary scientific methods and collaborations.
 
 - <h4> Bursary for the International Conference on Computational Social Science, Helsinki, Finland </h4>
 
