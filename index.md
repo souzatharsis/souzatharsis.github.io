@@ -12,6 +12,8 @@ Expertise in Financial Markets and Technology. Professional experience from both
 
 I am interested in disruptive data-driven solutions in the intersection of Computer Science and Finance involving Statistical Computing, Data Science, Machine Learning, and Computational Social Science.
 
+My work was cited at [Quantopian](https://www.quantopian.com/posts/important-study-confirms-non-linear-evidence-of-causal-effects-of-social-media-on-market-prices-using-psychsignal-dataset), US-based company [PsychSignal](https://psychsignal.com/uclwhitepapers/) and at Twitter's official [Blog](https://blog.twitter.com/2016/twitter-data-and-the-financial-markets-sentiment-analysis-volatility-other-indicators). 
+
 
 
 
