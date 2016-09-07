@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Awards
-permalink: /Awards/
+title: Misc
+permalink: /Misc/
 ---
 - <h4> 3rd Place - Thomson Reuters Hackathon 2016 </h4>
 <h5> Thomson Reuters  </h5>
