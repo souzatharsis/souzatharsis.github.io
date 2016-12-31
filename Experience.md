@@ -9,9 +9,9 @@ November 2014 – Present. London, United Kingdom
 
 See [Teaching](http://souzatharsis.github.io/Teaching/).
 
-### Senior Business Analyst, OTC Derivatives
+### Senior Business Analyst
 <h4> Brazilian Stock Exchange</h4>
-May 2013 – September 2014 (1 year 5 months) | São Paulo Area, Brazil
+May 2013 – September 2014 | São Paulo Area, Brazil
 
 BM&FBovespa is one of the largest stock exchanges in the world in terms of market value, the
 second largest in the Americas, and the leading exchange in Latin America.
@@ -30,7 +30,7 @@ Worked for 3 weeks in San Francisco\USA alongside vendor's specialists.
 
 ### Finance Professor, Derivatives
 <h4>Profins Business School</h4>
-2013 – 2013 (less than a year)
+2013 – 2013 | São Paulo Area, Brazil
 
 Modules:
 
@@ -41,7 +41,7 @@ http://www.profins.com.br/sp/programas/curso.php?id_curso=232
 
 ### IT Business Analyst, Market Risk
 <h4>Itau-Unibanco</h4>
-2011 – 2013 (2 years) São Paulo Area, Brazil
+2011 – 2013 | São Paulo Area, Brazil
 
 Itau Unibanco Holding S.A is the largest financial conglomerate in the Southern Hemisphere
 and is the 10th largest bank in the world by market value.
@@ -56,4 +56,4 @@ Exotic Options, Swaps, Futures, Forwards and others derivatives.
 
 ### Systems Analyst, JAVA
 <h4>University of Sao Paulo</h4>
-April 2010 – September 2011 (1 year 6 months)
+April 2010 – September 2011 | São Paulo Area, Brazil
