@@ -10,7 +10,7 @@ November 2014 – Present. London, United Kingdom
 See [Teaching](http://souzatharsis.github.io/Teaching/).
 
 ### Senior Business Analyst
-<h4> Brazilian Stock Exchange</h4>
+<h4> BM&FBOVESPA - Brazilian Stock Exchange</h4>
 May 2013 – September 2014 | São Paulo Area, Brazil
 
 BM&FBovespa is one of the largest stock exchanges in the world in terms of market value, the
