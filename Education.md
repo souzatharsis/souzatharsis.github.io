@@ -26,11 +26,11 @@ B.Sc. Computer Engineering
 ### Schools
 <hr> 
 
-#### Zurich Initiative on Computational Economics | Jan-2017
+#### Zurich Initiative on Computational Economics | Jan-2016
 
 State-of-the-art numerical methods and computer technology, and their application to economic modeling and analysis. 
 
-#### Doctoral Summer School - League of European Research Universities | Jul-2017
+#### Doctoral Summer School - League of European Research Universities | Jul-2016
 
 One of the only two PhD students nominated by UCL to attend the annual Doctoral Summer School organized by the League of European Research Universities.
 
