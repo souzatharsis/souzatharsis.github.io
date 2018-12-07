@@ -6,6 +6,9 @@ permalink: /Experience/
 
 ### Vice President of Product Development
 <h4>Yewno, Inc.</h4>
+June 2017 – present. New York, USA
+October 2016 – June 2017. California, USA
+May 2016 – October 2016. London, United Kingdom
 
 Vice President of Product Development at Yewno, a Silicon Valley-based start-up that leverages a proprietary Knowledge Graph to offer a variety of AI-augmented products and solutions including index strategies, alternative data feeds and an AI platform for financial services professionals. 
 
