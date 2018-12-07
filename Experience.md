@@ -3,9 +3,21 @@ layout: page
 title: Experience
 permalink: /Experience/
 ---
+
+### Vice President of Product Development
+<h4>Yewno, Inc.</h4>
+
+Vice President of Product Development at Yewno, a Silicon Valley-based start-up that leverages a proprietary Knowledge Graph to offer a variety of AI-augmented products and solutions including index strategies, alternative data feeds and an AI platform for financial services professionals. 
+
+Key deliverables:
+
+- Launched 5+ AI-based Index strategies licensed to asset managers and investment banks such as Amundi and BNP Paribas.
+- Launched 5+ alternative data feeds licensed to top Hedge Funds and distributed through Open:Factset and Nasdaq.
+- Launched Yewno Edge, an AI-platform for investment professionals.
+
 ### Teaching Assistant
 <h4>UCL, University of London</h4>
-November 2014 – Present. London, United Kingdom
+November 2014 – 2016. London, United Kingdom
 
 See [Teaching](http://souzatharsis.github.io/Teaching/).
 
@@ -25,8 +37,6 @@ Plain Vanilla and Exotic: Swaps, Options and Forwards:
 - Also responsible for the in-sprint Quality Assurance working closely with the Development team to Knowledge Transfer business requirements, definition and execution of Acceptance Tests, review functional completeness of delivered code.
 
 - Post sprint work to review and triage defects, prioritize new business requirements, ensure production quality of service.
-
-Worked for 3 weeks in San Francisco\USA alongside vendor's specialists.
 
 ### Finance Professor, Derivatives
 <h4>Profins Business School</h4>
