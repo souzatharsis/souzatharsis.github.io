@@ -8,9 +8,9 @@ permalink: /Education/
 
 
 #### UCL, University of London
-Doctor of Philosophy (Ph.D.), Financial Computing and Analytics | 2014-2017
+Doctor of Philosophy (Ph.D.), Financial Computing and Analytics
 
-#### Universidade de São Paulo (USP)
+#### University of Sao Paulo (USP)
 M.Sc. Computer Science, Computational Finance<br>
 Dissertation Title: Finance and Stochastic Simulation on GPUs
 
