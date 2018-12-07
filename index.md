@@ -3,7 +3,7 @@ layout: default
 ---
 
 <img style="width=305px;height=445px;float:left;padding:9px;"
-src="/image/p1.jpeg" alt="profile picture" width="133" height="200">
+src="/image/p1.jpeg" alt="profile picture" width="192" height="256">
 
 Tharsis Souza is Vice President of Product Development at Yewno, a Silicon Valley-based start-up that leverages a proprietary Knowledge Graph to offer a variety of AI-augmented products and solutions including index strategies, alternative data feeds and an AI platform for financial services professionals. 
 
