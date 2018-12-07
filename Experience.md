@@ -6,7 +6,7 @@ permalink: /Experience/
 
 ### Vice President of Product Development
 <h4>Yewno, Inc.</h4>
-June 2017 – present. New York, USA
+June 2017 – present. New York, USA </br>
 October 2016 – June 2017. California, USA
 May 2016 – October 2016. London, United Kingdom
 
