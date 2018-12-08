@@ -1,8 +1,8 @@
 # Site settings
 title: Thársis T. P. Souza
-email: T.Souza@cs.ucl.ac.uk
+email: souza.tharsis [at] gmail [dot] com
 description: > # this means to ignore newlines until "baseurl:"
-  Financial Computing and Analytics 
+  Alternative Data, AI, Financial Computing and Analytics 
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "souzatharsis.github.io" # the base hostname & protocol for your site
 twitter_username: souzatharsis
