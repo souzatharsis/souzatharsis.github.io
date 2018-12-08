@@ -28,7 +28,7 @@ permalink: /Misc/
 <h5> Thomson Reuters  </h5>
 Delivered a functional app providing unique insight drawing on multiple datasets in the Commodities' space leveraging data science, machine learning and visualization.
 
-- <h4> Placed #21 out 832 teams - Kaggle Winton Capital Stock Market Competition </h4>
+- <h4> Placed #21 out of 832 teams - Kaggle Winton Capital Stock Market Competition </h4>
 <h5> Kaggle - Winton Capital </h5>
 
 Winton challenged you to take on the very difficult task of predicting the future (stock returns). Given historical stock performance and a host of masked features, can you predict intra and end of day returns without being deceived by all the noise? 
