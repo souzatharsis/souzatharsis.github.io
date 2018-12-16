@@ -1,0 +1,3 @@
+[submodule "open-quant-live-book"]
+	path = open-quant-live-book
+	url = https://github.com/souzatharsis/open-quant-live-book
