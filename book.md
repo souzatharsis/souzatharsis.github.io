@@ -16,32 +16,32 @@ The Book is Open and we are looking for co-authors (as I will never have the tim
 
 ### Working Contents
 
-1. The Basics
+1.The Basics
 
 + I/O
 + Stylized Facts
 + Correlation & Causation
 
-2. Algo Trading   
+2.Algo Trading   
 
 + Investment Process
 + Backtesting
 + Factor Investing
 + Limit Order
 
-3. Portfolio Optimization
+3.Portfolio Optimization
 
 + Modern Portfolio Theory
 + Measuring Risk
 + Linear Programming
 
-4. Machine Learning
+4.Machine Learning
 
 + Intro
 + AutoML
 + Hierarchical Risk Parity
 
-5. Econophysics
+5.Econophysics
 
 + Entropy, Efficiency and Coupling
 + Transfer Entropy, Information Transfer and Causality
