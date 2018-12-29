@@ -12,7 +12,7 @@ permalink: /Book/
 
 ### Contribute
 
-The Book is Open and we are looking for co-authors (as I will never have the time or the knowledge to write it all by myself). Feel free to [reach out](http://www.souzatharsis.com/) or simply create a pull request with your contribution!
+The Book is [Open](https://github.com/souzatharsis/open-quant-live-book) and we are looking for co-authors (as I will never have the time or the knowledge to write it all by myself). Feel free to [reach out](http://www.souzatharsis.com/) or simply create a pull request with your contribution on our [Github project](https://github.com/souzatharsis/open-quant-live-book)!
 
 ### Working Contents
 
