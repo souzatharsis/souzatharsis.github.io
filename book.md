@@ -8,7 +8,7 @@ permalink: /Book/
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
-<img style="border:5px solid black" src="./fig/cover1.jpg" alt="The Open Quant Book" border="5" class="center">
+<img style="border:5px solid black" src="../fig/cover1.jpg" alt="The Open Quant Book" border="5" class="center">
 
 ### Contribute
 
@@ -53,7 +53,7 @@ First published at: [openquant.netlify.com](https://openquant.netlify.com/).
 
 Licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
 
-<img src="fig/by-nc-sa.png" width="20%">
+<img src="../fig/by-nc-sa.png" width="20%">
 
 Copyright (c) 2018. Thársis T. P. Souza. New York, NY.
 
