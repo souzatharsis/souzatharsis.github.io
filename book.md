@@ -38,6 +38,8 @@ The Book is [Open](https://github.com/souzatharsis/open-quant-live-book) and we 
 4.Machine Learning
 
 + Intro
++ Agent-Based Models
++ Binary Classifiers
 + AutoML
 + Hierarchical Risk Parity
 
@@ -46,6 +48,9 @@ The Book is [Open](https://github.com/souzatharsis/open-quant-live-book) and we 
 + Entropy, Efficiency and Coupling
 + Transfer Entropy, Information Transfer and Causality
 + Financial Networks
+
+6.Alternative Data
+
 
 ### Book's information
 
