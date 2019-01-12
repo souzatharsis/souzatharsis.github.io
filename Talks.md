@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Misc
-permalink: /Misc/
+title: Talks
+permalink: /Talks/
 ---
 
 ### Talks
@@ -21,7 +21,7 @@ permalink: /Misc/
 - Data Natives. University City London, London, UK. May, 2015.
 
 - Workshop in Behavioural Finance: Foundations & Recent Developments, 13. 2015.
-
+<!--
 ### Competitions
 
 - <h4> 3rd Place - Thomson Reuters Hackathon 2016 </h4>
@@ -35,7 +35,7 @@ Winton challenged you to take on the very difficult task of predicting the futur
 
 https://www.kaggle.com/c/the-winton-stock-market-challenge
 
-<!--
+
 ### Scholarships
 
 - <h4> PhD Scholarship </h4> 
