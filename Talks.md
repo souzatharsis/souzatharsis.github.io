@@ -4,7 +4,6 @@ title: Talks
 permalink: /Talks/
 ---
 
-### Talks
 
 - Beryl Elites Investment Conference. Panel: The Disruptors in Investment Management: Technology Solution Providers and Emerging AI/Alt Data Centric Hedge Funds Discuss Current Trends. November 5-6, 2018.
 
