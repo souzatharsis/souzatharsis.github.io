@@ -2,7 +2,297 @@
 layout: default
 ---
 
-<div id="medium-widget"></div>
-    <script src="https://medium-widget.pixelpoint.io/widget.js"></script>
-    <script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@kusnizza","postsPerLine":2,"limit":4,"picture":"big","fields":["description","author","claps","publishAt"],"ratio":"landscape"}})</script>
+<style>
+    /*********************************
+     The list of publication items
+     *********************************/
+/* The list of items */
+.biblist { }
 
+/* The item */
+.biblist li { }
+
+/* You can define custom styles for plstyle field here. */
+
+
+/*************************************
+ The box that contain BibTeX code
+ *************************************/
+div.noshow { display: none; }
+div.bibtex {
+	margin-right: 0%;
+	margin-top: 1.2em;
+	margin-bottom: 1em;
+	border: 1px solid silver;
+	padding: 0em 1em;
+	background: #ffffee;
+}
+div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; padding: 0em 0em;}</style>
+<script type="text/javascript">
+    <!--
+    // Toggle Display of BibTeX
+    function toggleBibtex(articleid) {
+        var bib = document.getElementById('bib_'+articleid);
+        if (bib) {
+            if(bib.className.indexOf('bibtex') != -1) {
+                bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'bibtex';
+            }
+        } else {
+            return;
+        }
+    }
+-->
+    </script>
+
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+    
+ <article class="post-content">
+
+	 
+<h4 style="margin-bottom:0px;padding-top:10px"><span style="font-weight:bold">Ad hoc Reviewer</span></h4>
+<br>
+<ul class="biblist">
+<li ><p>
+<a href="http://www.risk.net/type/journal/source/journal-of-network-theory-in-finance" target="_blank">The Journal of Network Theory in Finance</a> 
+</li>
+<li ><p>
+<a href="advances.sciencemag.org" target="_blank">Science Advances</a>, AAAS
+</li>
+<li ><p>
+<a href="www.plosone.org" target="_blank">PLoS ONE</a>
+</li>
+<li ><p>
+Handbook of Sentiment Analysis in Finance. Mitra, G. and Yu, X. (Eds.). (2016). ISBN 1910571571.
+</li>  
+</ul>
+
+<h4 style="margin-bottom:0px;padding-top:10px;Bold"><span style="font-weight:bold">Papers and Book Chapters</span></h4>
+<ol class="biblist">
+<br>
+
+<li ><p>
+<a href="http://www.souzatharsis.com">Thársis T. P. Souza</a> and <a href="http://www.cs.ucl.ac.uk/staff/tomaso_aste/" target="_blank">T. Aste</a>
+<br><span style="font-weight:bold">Predicting future stock market structure by combining social and financial network information
+.</span></br>
+<i>Under Submission</i>, 2018. e-print: https://arxiv.org/abs/1812.01103 <br>
+<a href="javascript:toggleBibtex('Souza2018')">[BibTeX]</a>
+<a href="https://arxiv.org/pdf/1812.01103">[PDF]</a>
+<div id="bib_Souza2018" class="bibtex noshow">
+<pre>
+@misc{2018arXiv181201103,
+   author = {Thársis T. P. Souza and T. Aste},
+    title = {Predicting future stock market structure by combining social and financial network information},
+  journal = {ArXiv e-prints},
+archivePrefix = "arXiv",
+   eprint = {1812.01103},
+ primaryClass = "q-fin.ST",
+     year = 2018,
+    month = nov,
+Howpublished  = {arXiv preprint. https://arxiv.org/abs/1812.01103}
+}
+</pre>
+</div>
+
+	</li>
+
+
+<li ><p>
+Jonathan Manfield, Derek Lukacsko and <a href="http://www.souzatharsis.com">Thársis T. P. Souza</a>
+<br><span style="font-weight:bold">Bull Bear Balance: A Cluster Analysis of Socially Informed Financial Volatility</span></br>
+IEEE Proceedings of Computing Conference 2017. London, UK. e-print: arxiv.org/abs/1508.03981
+<br>
+<a href="javascript:toggleBibtex('Jonathan2017')">[BibTeX]</a>
+<a href="http://arxiv.org/pdf/1811.10195">[PDF]</a>
+<div id="bib_Jonathan2017" class="bibtex noshow">
+<pre>
+@INPROCEEDINGS{8252134, 
+author={J. Manfield and D. Lukacsko and T. T. P. Souza}, 
+booktitle={2017 Computing Conference}, 
+title={Bull bear balance: A cluster analysis of socially informed financial volatility}, 
+year={2017}, 
+volume={}, 
+number={}, 
+pages={421-428}, 
+doi={10.1109/SAI.2017.8252134}, 
+ISSN={}, 
+month={July},}
+</pre>
+</div>
+</li>	 
+	 
+<li ><p>
+Leno Rocha, Frederico Rocha and <a href="http://www.souzatharsis.com">Thársis T. P. Souza</a>
+<br><span style="font-weight:bold">Is the public sector of your country a diffusion borrower? Empirical evidence from Brazil</span></br>
+PloS one 12.10 (2017): e0185257. e-print: arxiv.org/abs/1604.07782
+<br>
+<a href="javascript:toggleBibtex('Rocha2016')">[BibTeX]</a>
+<a href="http://arxiv.org/pdf/1604.07782">[PDF]</a>
+<div id="bib_Rocha2016" class="bibtex noshow">
+<pre>
+@article{rocha2017public,
+  title={Is the public sector of your country a diffusion borrower? Empirical evidence from Brazil},
+  author={Rocha, Leno S and Rocha, Frederico SA and Souza, Th{\'a}rsis T. P.},
+  journal={PloS one},
+  volume={12},
+  number={10},
+  pages={e0185257},
+  year={2017},
+  publisher={Public Library of Science}
+}
+</pre>
+</div>
+</li>
+
+<li ><p>
+<a href="http://www.souzatharsis.com">Thársis T. P. Souza</a> and <a href="http://www.cs.ucl.ac.uk/staff/tomaso_aste/" target="_blank">T. Aste</a>
+<br><span style="font-weight:bold">A nonlinear impact: evidences of causal effects of social media on market
+prices.</span></br>
+<i>Under Submission</i>, 2016. e-print: http://arxiv.org/abs/1601.04535 <br>
+<a href="javascript:toggleBibtex('Souza2016')">[BibTeX]</a>
+<a href="http://arxiv.org/pdf/1601.04535">[PDF]</a>
+<div id="bib_Souza2016" class="bibtex noshow">
+<pre>
+@misc{2016arXiv160104535S,
+   author = {Th{\'a}rsis T. P. Souza and T. Aste},
+    title = {A nonlinear impact: evidences of causal effects of social media on market prices},
+  journal = {ArXiv e-prints},
+archivePrefix = "arXiv",
+   eprint = {1601.04535},
+ primaryClass = "q-fin.ST",
+     year = 2016,
+    month = jan,
+Howpublished  = {arXiv preprint. http://arxiv.org/abs/1601.04535}
+}
+</pre>
+</div>
+
+</li>      
+
+<li ><p>
+O. Kolchyna and <a href="http://www.souzatharsis.com">Thársis T. P. Souza</a> and <a href="http://www0.cs.ucl.ac.uk/people/P.Treleaven.html" target="_blank">Philip C. Trealaven</a> and <a href="http://www.cs.ucl.ac.uk/staff/tomaso_aste/" target="_blank">T. Aste</a>
+<br><span style="font-weight:bold">A Framework for Twitter Events Detection, Differentiation and its Application for
+Retail Brands.</span></br>
+IEEE Proceedings of Future Technologies Conference 2016. San Francisco, United States. e-print: arxiv.org/abs/1508.03981
+<br>
+<a href="javascript:toggleBibtex('Olga2016')">[BibTeX]</a>
+<a href="http://arxiv.org/pdf/1508.03981">[PDF]</a>
+<div id="bib_Olga2016" class="bibtex noshow">
+<pre>
+@inproceedings{kolchyna2016framework,
+  title={A framework for Twitter events detection, differentiation and its application for retail brands},
+  author={Kolchyna, Olga and Souza, Th{\'a}rsis TP and Treleaven, Philip C and Aste, Tomaso},
+  booktitle={Future Technologies Conference (FTC)},
+  pages={323--331},
+  year={2016},
+  organization={IEEE}
+}
+</pre>
+</div>
+</li> 
+
+
+<li ><p>
+<a href="http://www.souzatharsis.com">Thársis T. P. Souza</a> and Olga Kolchyna and <a href="http://www0.cs.ucl.ac.uk/people/P.Treleaven.html" target="_blank">Philip C. Trealaven</a> and <a href="http://www.cs.ucl.ac.uk/staff/tomaso_aste/" target="_blank">T. Aste</a>
+<br><span style="font-weight:bold">Twitter Sentiment Analysis Applied to Finance: A Case Study in the Retail Industry.</span></br>
+<i>In: Handbook of Sentiment Analysis in Finance. Mitra, G. and Yu, X. (Eds.). (2016). ISBN
+1910571571.</i>, 2016. e-print: arxiv.org/abs/1507.00784
+<br>  
+<a href="javascript:toggleBibtex('Souza2015')">[BibTeX]</a>
+<a href="http://arxiv.org/pdf/1507.00784">[PDF]</a>
+<div id="bib_Souza2015" class="bibtex noshow">
+<pre>
+@incollection{A1,
+  author      = {Th\'{a}rsis T. P. Souza and Olga Kolchyna and Philip Treleaven and Tomaso Aste},
+  title       = "Twitter Sentiment Analysis Applied to Finance: A Case Study in the Retail Industry",
+  editor      = "Gautam Mitra and Xiang Yu",
+  booktitle   = "Handbook of Sentiment Analysis in Finance",
+  year        = 2016,
+  chapter     = 23
+}
+</pre>
+</div>
+</li>    
+    
+<li ><p>
+O. Kolchyna and <a href="http://www.souzatharsis.com">Thársis T. P. Souza</a> and <a href="http://www0.cs.ucl.ac.uk/people/P.Treleaven.html" target="_blank">Philip C. Trealaven</a> and <a href="http://www.cs.ucl.ac.uk/staff/tomaso_aste/" target="_blank">T. Aste</a>
+<br><span style="font-weight:bold">Twitter Sentiment Analysis: Lexicon Method, Machine Learning Method and Their Combination.</span></br>
+<i>In: Handbook of Sentiment Analysis in Finance. Mitra, G. and Yu, X. (Eds.). (2016). ISBN
+1910571571.</i>, 2016. e-print: arxiv.org/abs/1507.00955
+<br>
+<a href="javascript:toggleBibtex('Olga2015')">[BibTeX]</a>
+<a href="http://arxiv.org/pdf/1507.00955">[PDF]</a>
+<div id="bib_Olga2015" class="bibtex noshow">
+<pre>
+@incollection{A3,
+   author = {Olga Kolchyna and Th\'{a}rsis T. P. Souza and Philip Treleaven and Tomaso Aste},
+    title = {Twitter Sentiment Analysis: Lexicon Method, Machine Learning Method and Their Combination},
+  editor      = "Gautam Mitra and Xiang Yu",
+  booktitle   = "Handbook of Sentiment Analysis in Finance",
+  year        = 2016,
+  chapter     = 5
+}
+</pre>
+</div>
+</li>   
+</ol  >
+
+
+
+
+<h4 style="margin-bottom:0px;padding-top:10px"><span style="font-weight:bold">Talks</span></h4>
+<ol class="biblist">
+<br> 
+	
+<li ><p>
+9th International Conference on Computational and Financial Econometrics (CFE 2015). Senate House, University of London, UK, 12-14 December 2015.
+</li>   
+
+<li ><p>
+Big Data Finance and the Emergence of a New Kind of Data: Online proxies of human behaviour.  EARL16 Conference - Effective Applications of the R Language. London, UK, 13th-15th September 2016.
+</li>   
+
+<li ><p>
+International Conference on Computational Social Science. University of Aalto, Helsinki, Finland. June 2015. 
+</li>
+
+<li ><p>
+Data Natives. University City London, London, UK. May, 2015.
+</li>
+
+<li ><p>
+Workshop in Behavioural Finance: Foundations & Recent Developments, 13. 2015.
+</li>
+
+</ol  >
+
+
+
+<h4 style="margin-bottom:0px;padding-top:10px"><span style="font-weight:bold">Dissertation Supervision</span></h4>
+<ol class="biblist">
+<br>  
+<li ><p>
+Jiang Liu. STRUCTURE OF THE OPERATIONAL RISK CAPITAL MODEL OF MARKET MANIPULATION SCENARIO UNDER THE FCA. 2015. Masters Dissertation in Financial Risk Management - University College London.
+</li>  
+
+<li ><p>
+Jinru Li. CORPORATE AND BANK HEDGING STRATEGIES FOR USDCNH FOREIGN EXCHANGE RISK EXPOSURES. 2015. Masters Dissertation in Financial Risk Management - University College London.
+</li>   
+
+<li ><p>
+Chen Wang. A QUALITATIVE RESEARCH ON CORRELATIONS BETWEEN MACROENVIRONMENT FACTORS AND CURRENCY VALUE OF AUSTRALIAN DOLLARS. 2015. Masters Dissertation in Financial Risk Management - University College London.
+</li>  
+
+<li ><p>
+Vasile Coreni. ANALYSING THE CO-MOVEMENTS OF FINANCIAL NEWS AND STOCK MARKETS. 2015. Masters Dissertation in Financial Risk Management - University College London.
+</li>  
+
+</ol  >
+
+   
+ </article>
+
+</div>
