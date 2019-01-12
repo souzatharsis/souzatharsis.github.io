@@ -3,21 +3,7 @@ layout: default
 title: Blog1
 permalink: /blog1/
 ---
+<div id="medium-widget"></div>
+    <script src="https://medium-widget.pixelpoint.io/widget.js"></script>
+    <script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@kusnizza","postsPerLine":2,"limit":4,"picture":"big","fields":["description","author","claps","publishAt"],"ratio":"landscape"}})</script>
 
-// Blog
-section#blog.section.blog
-  .container
-    //
-    header.section-heading
-      h2 From The Blog
-      span Awesome articles from the blog
-    //
-    #blogContent.section-content
-      #jsonContent.row
-    // /#blogContent
-    .text-center
-      a#loadBlogPosts.btn.btn-dark(href='//medium.com/@Sriram23')
-        | View All
-        span.fa.fa-angle-double-right
-  // /.container
-// Blog
