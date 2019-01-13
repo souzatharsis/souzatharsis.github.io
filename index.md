@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default-index
 ---
 
 <img style="width=305px;height=445px;float:left;padding:9px;"
