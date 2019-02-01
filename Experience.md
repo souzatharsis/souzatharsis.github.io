@@ -12,17 +12,16 @@ May 2016 – October 2016. London, United Kingdom <br>
 
 Vice President of Product Development at Yewno, a Silicon Valley-based start-up that leverages a proprietary Knowledge Graph to offer a variety of AI-augmented products and solutions including index strategies, alternative data feeds and an AI platform for financial services professionals. 
 
-Key deliverables:
+- Played key leadership role in company during fast growth stage applying AI-based technology to create new commercial business opportunities building out multiple product lines, strategic partnerships and revenue channels from the ground up.
+- Launched 10+ AI-based Index products licensed to asset management firms and investment banks such as Amundi and BNP Paribas.
+- Launched 5+ alternative data feeds licensed to top Hedge Funds and distributed by Nasdaq and Factset.
+- Launched Yewno|Edge, an AI-platform for investment professionals.
 
-- Launched 5+ AI-based Index strategies licensed to asset managers and investment banks such as Amundi and BNP Paribas.
-- Launched 5+ alternative data feeds licensed to top Hedge Funds and distributed through Open:Factset and Nasdaq.
-- Launched Yewno Edge, an AI-platform for investment professionals.
-
-### Teaching Assistant
+### Researcher
 <h4>UCL, University of London</h4>
 November 2014 – 2016. London, United Kingdom
 
-See [Teaching](http://souzatharsis.github.io/Teaching/).
+Supervised research projects with industry partners (Investment Banks and Hedge Funds). Taught Masters courses in [data analytics and financial computing](http://souzatharsis.github.io/Teaching/).
 
 ### Senior Business Analyst
 <h4> BM&FBOVESPA - Brazilian Stock Exchange</h4>
