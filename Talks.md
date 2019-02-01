@@ -4,6 +4,7 @@ title: Talks
 permalink: /Talks/
 ---
 
+- BattleFin Miami 2019. Talk: Connecting the Dots: Using Knowledge Graphs to Identify Investment Opportunities. January 29, 2019.
 
 - Beryl Elites Investment Conference. Panel: The Disruptors in Investment Management: Technology Solution Providers and Emerging AI/Alt Data Centric Hedge Funds Discuss Current Trends. November 5-6, 2018.
 
@@ -11,9 +12,9 @@ permalink: /Talks/
 
 - 2018 Vanguard Artificial Intelligence Expo. October 18, 2018.
 
-- 9th International Conference on Computational and Financial Econometrics (CFE 2015). Senate House, University of London, UK, 12-14 December 2015.
-
 - Big Data Finance and the Emergence of a New Kind of Data: Online proxies of human behaviour. EARL16 Conference - Effective Applications of the R Language. London, UK, 13th-15th September 2016.
+
+- 9th International Conference on Computational and Financial Econometrics (CFE 2015). Senate House, University of London, UK, 12-14 December 2015.
 
 - International Conference on Computational Social Science. University of Aalto, Helsinki, Finland. June 2015.
 
