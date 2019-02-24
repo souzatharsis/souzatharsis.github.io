@@ -16,3 +16,6 @@ markdown: kramdown
 
 # needed for CI builds:
 exclude: [vendor]
+
+plugins:
+  - jekyll-seo-tag
