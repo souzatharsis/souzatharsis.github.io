@@ -9,7 +9,7 @@ Tharsis Souza is Vice President of Product Development at Yewno, a Silicon Valle
 
 Tharsis is a product leader with 10 years of experience in technology, quantitative finance, and data science. Tharsis built teams and delivered new products across companies in Latin America, Europe, and the US. Prior to Yewno, Tharsis worked with [Product Development](https://www.souzatharsis.com/Experience/) and Quantitative Finance in the banking and stock exchange industries, consulted for Hedge Funds and developed research at the Financial Computing & Analytics research group at University College London (UK). Tharsis is an [author](https://www.souzatharsis.com/Research/) of scientific publications in financial computing and analytics and an ad hoc reviewer of scientific journals such as Science Advances (AAAS) and The Journal of Network Theory in Finance. Tharsis also speaks in various academic and [industry conferences](https://www.souzatharsis.com/Talks/) on Computer Science, Fintech and Artificial Intelligence. In his spare time, Tharsis is writing the [Open Quant Live Book](http://www.openquants.com).
 
-Tharsis holds a Ph.D. in Computer Science (Financial Computing & Analytics) from UCL, University of London, a M.Sc. in Computer Science from the University of Sao Paulo and a B.Sc. in Computer Engineering from the University of Campinas.
+Tharsis holds a Ph.D. in Computer Science (Financial Computing & Analytics) from UCL, University of London, an M.Sc. in Computer Science from the University of Sao Paulo and a B.Sc. in Computer Engineering from the University of Campinas.
 
 
 
