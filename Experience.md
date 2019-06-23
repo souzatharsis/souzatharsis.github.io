@@ -20,9 +20,13 @@ May 2016 – October 2016. London, United Kingdom <br>
 Co-founded the Financial Services vertical at Yewno, a Silicon Valley-based start-up that leverages AI to launch products and solutions including index strategies, alternative data feeds and an AI platform for financial services professionals.
 
 - Played a key leadership role in the company during fast growth stage applying AI-based technology to create new commercial business opportunities building out multiple product lines, strategic partnerships and revenue channels from the ground up.
+
 - Opened company's New York office (12 employees), defined product strategy and managed project execution coordinating the efforts of multiple engineering, data science & quant teams in New York, California and Europe.
+
 - Launched 14+ AI-based equity-index products licensed to asset management firms and investment banks such as Amundi, DWS and BNP Paribas.
+
 - Launched 10+ alternative data feeds licensed to top Hedge Funds and distributed by Quandl and Factset.
+
 - Launched company's [AI-platform](https://www.businesswire.com/news/home/20190123005216/en/Award-Winning-Artificial-Intelligence-Company-Yewno-Launches-Innovative) for investment professionals.
 
 ### Researcher, Financial Computing & Analytics
@@ -31,7 +35,7 @@ November 2014 – 2016. London, United Kingdom
 
 Supervised research projects with industry partners (Investment Banks and Hedge Funds). Taught Masters courses in [data analytics and financial computing](http://souzatharsis.github.io/Teaching/).
 
-### Senior Business Analyst, OTC Derivatives
+### Senior Business Analyst, OTC Products
 <h4> BM&FBOVESPA - Brazilian Stock Exchange</h4>
 May 2013 – September 2014 | São Paulo Area, Brazil
 
