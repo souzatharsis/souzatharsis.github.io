@@ -3,27 +3,35 @@ layout: page
 title: Experience
 permalink: /Experience/
 ---
+### Strategic Innovation, Director
+<h4>Axioma Inc.</h4>
+June 2019 – present. New York, USA
 
-### Vice President of Product Development
+Axioma is the leading provider of innovative risk-management and portfolio-construction solutions to financial institutions worldwide. With an emphasis on innovation, outstanding service and open-platform technology, Axioma gives its clients more choice, greater flexibility and increased performance. Founded in 1998, Axioma is headquartered in New York, with 13+ offices around the world.
+
+Axioma was recently acquired by Deutsche Börse for $850M and it will merge with its subsidiaries STOXX and DAX to form a new private company with the mission to become a buy-side intelligence leader. The union of Axioma, STOXX and DAX under the Deutsche Börse umbrella creates a growth company that is uniquely equipped to help clients capitalize on the critical trends now reshaping the investment-management landscape.
+
+### Vice President of Product Development, Financial Services
 <h4>Yewno, Inc.</h4>
-June 2017 – present. New York, USA <br>
+June 2017 – June, 2019. New York, USA <br>
 October 2016 – June 2017. California, USA <br>
 May 2016 – October 2016. London, United Kingdom <br>
 
-Vice President of Product Development at Yewno, a Silicon Valley-based start-up that leverages a proprietary Knowledge Graph to offer a variety of AI-augmented products and solutions including index strategies, alternative data feeds and an AI platform for financial services professionals. 
+Co-founded the Financial Services vertical at Yewno, a Silicon Valley-based start-up that leverages AI to launch products and solutions including index strategies, alternative data feeds and an AI platform for financial services professionals.
 
 - Played key leadership role in company during fast growth stage applying AI-based technology to create new commercial business opportunities building out multiple product lines, strategic partnerships and revenue channels from the ground up.
-- Launched 10+ AI-based Index products licensed to asset management firms and investment banks such as Amundi and BNP Paribas.
-- Launched 5+ alternative data feeds licensed to top Hedge Funds and distributed by Nasdaq and Factset.
-- Launched Yewno|Edge, an AI-platform for investment professionals.
+- Opened company's New York office (12 employees), defined product strategy and managed project execution coordinating the efforts of multiple engineering, data science & quant teams in New York, California and Europe.
+- Launched 14+ AI-based equity-index products licensed to asset management firms and investment banks such as Amundi, DWS and BNP Paribas.
+- Launched 10+ alternative data feeds licensed to top Hedge Funds and distributed by Quandl and Factset.
+- Launched company's [AI-platform](https://www.businesswire.com/news/home/20190123005216/en/Award-Winning-Artificial-Intelligence-Company-Yewno-Launches-Innovative) for investment professionals.
 
-### Researcher
+### Researcher, Financial Computing & Analytics
 <h4>UCL, University of London</h4>
 November 2014 – 2016. London, United Kingdom
 
 Supervised research projects with industry partners (Investment Banks and Hedge Funds). Taught Masters courses in [data analytics and financial computing](http://souzatharsis.github.io/Teaching/).
 
-### Senior Business Analyst
+### Senior Business Analyst, OTC Derivatives
 <h4> BM&FBOVESPA - Brazilian Stock Exchange</h4>
 May 2013 – September 2014 | São Paulo Area, Brazil
 
@@ -40,7 +48,7 @@ Plain Vanilla and Exotic: Swaps, Options and Forwards:
 
 - Post sprint work to review and triage defects, prioritize new business requirements, ensure production quality of service.
 
-### Finance Professor, Derivatives
+### Finance Professor, Quantitative Finance
 <h4>Profins Business School</h4>
 2013 – 2013 | São Paulo Area, Brazil
 
