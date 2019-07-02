@@ -3,7 +3,7 @@ layout: page
 title: Experience
 permalink: /Experience/
 ---
-### Strategic Innovation, Director
+### Director, Strategic Innovation
 <h4>Axioma Inc.</h4>
 June 2019 – present. New York, USA
 
@@ -11,7 +11,7 @@ Axioma is the leading provider of innovative risk-management and portfolio-const
 
 Axioma was recently acquired by Deutsche Börse for $850M and it will merge with its subsidiaries STOXX and DAX to form a new private company with the mission to become a buy-side intelligence leader. The union of Axioma, STOXX and DAX under the Deutsche Börse umbrella creates a growth company that is uniquely equipped to help clients capitalize on the critical trends now reshaping the investment-management landscape.
 
-### Vice President of Product Development, Financial Services
+### Vice President, Product Development
 <h4>Yewno, Inc.</h4>
 June 2017 – June, 2019. New York, USA <br>
 October 2016 – June 2017. California, USA <br>
