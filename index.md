@@ -9,10 +9,9 @@ Strategic Innovation, Director at Axioma Inc., the leading provider of innovativ
 
 Co-founded the [Financial Services](https://www.yewno.com/finance/) vertical at Yewno Inc., a Silicon Valley-based start-up that leverages AI to build innovative products launching AI-based equity indexes with STOXX, Nasdaq and Solactive, alternative data feeds with Factset and Nasdaq/Quandl as well as an AI financial platform for Quantamental investment managers.
 
-Prior to Yewno, worked with [Technology Services](https://www.souzatharsis.com/Experience/) launching new Market Risk and OTC products in the banking and stock exchange industries and developed research at UCL, University of London. 
+Worked with [Technology Services](https://www.souzatharsis.com/Experience/) launching new Market Risk and OTC products in the banking and stock exchange industries and developed research at UCL, University of London. 
 
-
-[Author](https://www.souzatharsis.com/Research/) of scientific publications in financial computing and analytics and an ad hoc reviewer of scientific journals such as Science Advances (AAAS) and The Journal of Network Theory in Finance. [Speaker](https://www.souzatharsis.com/Talks/) in various academic and industry conferences on Computer Science, Fintech and Artificial Intelligence.
+[Author](https://www.souzatharsis.com/Research/) of scientific publications in machine learning, financial computing and analytics. Ad-hoc reviewer of scientific journals such as Science Advances (AAAS) and The Journal of Network Theory in Finance. [Speaker](https://www.souzatharsis.com/Talks/) in various academic and industry conferences on Computer Science, Fintech and Artificial Intelligence.
 
 Ph.D. in Computer Science from UCL, University of London, a M.Sc. in Computer Science from the University of Sao Paulo and B.Sc. in Computer Engineering from the University of Campinas.
 
