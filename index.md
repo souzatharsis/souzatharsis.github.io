@@ -7,7 +7,7 @@ src="/image/p1.jpeg" alt="profile picture" width="192" height="256">
 
 Strategic Innovation, Director at Axioma Inc., the leading provider of innovative risk-management and portfolio-construction solutions to financial institutions worldwide.
 
-Co-founded the [Financial Services](https://www.yewno.com/finance/) vertical at Yewno Inc., a Silicon Valley-based start-up that leverages AI to build innovative products launching AI-based equity indexes with STOXX, Nasdaq and Solactive, alternative data feeds with Factset and Nasdaq/Quandl as well as an AI financial platform for Quantamental investment managers.
+Co-founded the [Financial Services](https://www.yewno.com/finance/) vertical at Yewno Inc., a Silicon Valley-based start-up that leverages AI to build innovative products launching AI-based equity indexes with STOXX and Nasdaq, alternative data feeds with Factset and Quandl as well as an AI financial platform for investment managers.
 
 Worked with [Technology Services](https://www.souzatharsis.com/Experience/) launching new Market Risk and OTC products in the banking and stock exchange industries and developed research at UCL, University of London. 
 
