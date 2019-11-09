@@ -5,17 +5,17 @@ layout: default-index
 <img style="width=305px;height=445px;float:left;padding:9px;"
 src="/image/p1.jpeg" alt="profile picture" width="192" height="256">
 
-Director of Strategic Innovation at Qontigo ([Axioma Inc.](https://www.axioma.com/) + [STOXX](https://www.stoxx.com/) + DAX), part of Deutsche Boerse, focused on Product Incubation / AI / Advanced Analytics in Financial Services.
+Tharsis Souza, PhD is a Computer Scientist, author, and innovator passionate about data-driven products.
 
-Creator of [OpenQuants.com](https://OpenQuants.com/), open-source and reproducible quantitative research in Financial Data Science and Alternative Data.
+Director of Strategic Innovation at Qontigo, a recently formed financial intelligence company bringing together [Axioma Inc.](https://www.axioma.com/), DAX and [STOXX](https://www.stoxx.com/) to deliver the most sophisticated risk analytics and portfolio-construction tools as well as market-defining indices. Tharsis is responsible for Product Incubation / AI / Advanced Analytics with a mission to create new fintech businesses that drive growth for the firm.
 
-Co-founded the Financial Services vertical at [Yewno Inc., a Silicon Valley-based start-up](https://www.yewno.com/finance/) that leverages AI to build innovative products launching AI-based indexes with STOXX and Nasdaq, alternative data feeds with Factset, Yahoo Finance and Quandl.
+He's also the creator of [OpenQuants.com](https://OpenQuants.com/) fostering open and reproducible research in Financial Data Science and Alternative Data.
 
-Launched new Market Risk and OTC products in the banking and stock exchange industries and developed research at UCL, University of London.
+Previously, he co-founded the Financial Services vertical at [Yewno Inc., an award-winning Silicon Valley-based tech start-up](https://www.yewno.com/), launching a portfolio of AI-based products including alternative data feeds, indexes and an investment management platform.
 
-[Author](https://www.souzatharsis.com/Research/) of scientific publications in machine learning, financial computing and analytics. Ad-hoc reviewer of scientific journals such as Science Advances (AAAS) and The Journal of Network Theory in Finance. [Speaker](https://www.souzatharsis.com/Talks/) in various academic and industry conferences on Computer Science, Fintech and Artificial Intelligence.
+Prior to Yewno, Tharsis was part of the prestigious UK PhD Centre in Financial Computing and Data Science. Before that, Tharsis launched new risk and trading products at the Brazilian Stock Exchange (B3) and at Itaú Unibanco after starting his career as a Software Engineer.
 
-[Ph.D. in Computer Science from UCL, University of London]((https://www.ucl.ac.uk/)), M.Sc. in Computer Science from the University of Sao Paulo and B.Sc. in Computer Engineering from the University of Campinas.
+Tharsis holds a PhD in Computer Science from UCL, University of London following a Masters in Computer Science and a Bachelors in Computer Engineering.
 
 
 
