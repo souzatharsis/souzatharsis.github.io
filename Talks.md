@@ -4,6 +4,8 @@ title: Talks
 permalink: /Talks/
 ---
 
+- **Beryl Elites** Investment Conference. Panel: Mission Driven Investing. Is AI gaining ground in these investment segments? New York 2019.
+
 - **Benzinga** Trading Summit. AI-based Investing: From Information to Knowledge. Talk. New York 2019.
 
 - **BattleFin** Alternative Data Discovery Day. Panel Discussion. New York 2019.
