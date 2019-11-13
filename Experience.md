@@ -15,7 +15,7 @@ Responsible for Product Incubation / AI / Advanced Analytics with a mission to c
 <h4>OpenQuants</h4>
 November 2014 – 2016. New York, USA
 
-He's also the creator of OpenQuants.com fostering open and reproducible research in Financial Data Science and Alternative Data.
+Creator of OpenQuants.com fostering open and reproducible research in Financial Data Science and Alternative Data.
 
 ### Vice President, Product Development
 <h4>Yewno, Inc.</h4>
