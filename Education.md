@@ -8,7 +8,7 @@ permalink: /Education/
 
 
 #### UCL, University of London
-Doctor of Philosophy (Ph.D.), Financial Computing and Analytics
+Doctor of Philosophy (Ph.D.), Computer Science
 
 #### University of Sao Paulo (USP)
 M.Sc. Computer Science, Computational Finance<br>
