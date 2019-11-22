@@ -4,6 +4,8 @@ title: Talks
 permalink: /Talks/
 ---
 
+- **Qontigo (Axioma + STOXX + DAX)** Financial Intelligence Conference. Panel: Innovations in Risk and Analytics. New York 2019.
+
 - **Beryl Elites** Investment Conference. Panel: Mission Driven Investing. Is AI gaining ground in these investment segments? New York 2019.
 
 - **Benzinga** Trading Summit. AI-based Investing: From Information to Knowledge. Talk. New York 2019.
