@@ -11,15 +11,18 @@ permalink: /Education/
 Doctor of Philosophy (Ph.D.), Computer Science
 
 #### University of Sao Paulo (USP)
-M.Sc. Computer Science, Computational Finance<br>
-Dissertation Title: Finance and Stochastic Simulation on GPUs
+M.Sc. Computer Science
+<!--, Computational Finance -->
+<!-- Dissertation Title: Finance and Stochastic Simulation on GPUs -->
 
+<!--
 #### Brazilian Stock Exchange (BM&FBovespa)
 Specialization, Risk Management<br>
 Derivatives, MtM, Accrual, Value-at-Risk, Monte Carlo Simulation, Backtesting, Stress Testing
-
+-->
 #### Universidade Estadual de Campinas (Unicamp)
 B.Sc. Computer Engineering
+<!--
 <br>
 <br>
 
@@ -49,3 +52,4 @@ The main aim is to prepare students for future complex, data-intensive, multi-st
 #### USP, Universidade de São Paulo (M.Sc. level)
 *  Financial Engineering
 *  Otimization Methods in Finance
+-->
