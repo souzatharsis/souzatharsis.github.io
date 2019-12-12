@@ -8,7 +8,7 @@ permalink: /Education/
 
 
 #### UCL, University of London
-Doctor of Philosophy (Ph.D.), Computer Science </br>
+Doctor of Philosophy (Ph.D.), Computer Science <br/>
 Master of Philosophy (M.Phil.), Computer Science
 
 #### University of Sao Paulo (USP)
