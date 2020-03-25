@@ -3,9 +3,15 @@ layout: page
 title: Experience
 permalink: /Experience/
 ---
+### Vice President, Product
+<h4>Two Sigma Investments</h4>
+Fev 2020 – present. New York, USA
+
+Discovering value in the world's data: products, ML, data.
+
 ### Director, Strategic Innovation
 <h4>Axioma Inc.</h4>
-June 2019 – present. New York, USA
+June 2019 – Feb 2020. New York, USA
 
 Director of Strategic Innovation at Qontigo, a recently formed financial intelligence company bringing together Axioma, DAX and STOXX to deliver the most sophisticated risk analytics and portfolio-construction tools as well as market-defining indices.
 
@@ -13,7 +19,7 @@ Responsible for Product Incubation / AI / Advanced Analytics with a mission to c
 
 ### Creator
 <h4>OpenQuants</h4>
-November 2014 – 2016. New York, USA
+Jan 2019 – Feb 2020. New York, USA
 
 Creator of OpenQuants.com fostering open and reproducible research in Financial Data Science and Alternative Data.
 
