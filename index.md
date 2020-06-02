@@ -10,7 +10,7 @@ He is Vice President, Products at Two Sigma Investments with the goal of applyin
 
 Previously, Director of Product Incubation at [Axioma Inc.](https://www.axioma.com/) specialized in AI and Advanced Analytics.
 
-Founder of OpenQuants.com fostering open-source and reproducible insights in Financial Data Science and Alternative Data.
+Founder of Open Quants fostering open-source and reproducible insights in Financial Data Science and Alternative Data.
 
 Co-founded the Financial Services vertical at [Yewno Inc., an award-winning Silicon Valley-based tech start-up](https://www.yewno.com/), launching a portfolio of AI-based products including alternative data feeds, indexes and an investment management platform.
 
