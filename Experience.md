@@ -21,7 +21,7 @@ Responsible for Product Incubation / AI / Advanced Analytics with a mission to c
 <h4>OpenQuants</h4>
 Jan 2019 – Feb 2020. New York, USA
 
-Creator of OpenQuants.com fostering open and reproducible research in Financial Data Science and Alternative Data.
+Creator of Open Quants fostering open and reproducible research in Financial Data Science and Alternative Data.
 
 ### Vice President, Product Development
 <h4>Yewno, Inc.</h4>
@@ -29,7 +29,7 @@ June 2017 – June, 2019. New York, USA <br>
 October 2016 – June 2017. California, USA <br>
 May 2016 – October 2016. London, United Kingdom <br>
 
-Co-founded the Financial Services vertical at Yewno, an award-winning Silicon Valley-based start-up that leverages AI to launch products and solutions including index strategies, alternative data feeds and an AI platform for financial services professionals.
+Co-founded the Financial Services vertical at Yewno, a Silicon Valley-based start-up that leverages AI and Knowledge Graphs to launch products and solutions including index strategies, alternative data feeds and an award-winning AI platform for financial services professionals. Winner of the 2020 Global Technology Innovation Award for predictive analytics in the financial services industry.
 
 - Played a key leadership role in the company during fast growth stage applying AI-based technology to create new commercial business opportunities building out multiple product lines, strategic partnerships and revenue channels from the ground up.
 
