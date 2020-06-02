@@ -4,6 +4,8 @@ title: Talks
 permalink: /Talks/
 ---
 
+- **Big Data Finance 2020**. Talk: Predicting future stock market structure by combining social and financial network information. New York 2020.
+
 - **Qontigo (Axioma + STOXX + DAX)** Financial Intelligence Conference. Panel: Innovations in Risk and Analytics. New York 2019.
 
 - **Beryl Elites** Investment Conference. Panel: Mission Driven Investing. Is AI gaining ground in these investment segments? New York 2019.
