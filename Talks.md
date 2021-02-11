@@ -4,6 +4,8 @@ title: Talks
 permalink: /Talks/
 ---
 
+- **IAAI-21 AI in Practice Panel**. Moderator: AI Applications in Finance: Risks and Challenges in Deploying Real-World Businesses Solutions. Feb, 2021.
+
 - **Big Data Finance 2020**. Talk: Predicting future stock market structure by combining social and financial network information. New York 2020.
 
 - **Qontigo (Axioma + STOXX + DAX)** Financial Intelligence Conference. Panel: Innovations in Risk and Analytics. New York 2019.
