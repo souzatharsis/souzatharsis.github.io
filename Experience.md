@@ -3,7 +3,7 @@ layout: page
 title: Experience
 permalink: /Experience/
 ---
-### Vice President, Product
+### Vice President, Products
 <h4>Two Sigma Investments</h4>
 Fev 2020 – present. New York, USA
 
