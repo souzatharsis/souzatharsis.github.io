@@ -3,11 +3,19 @@ layout: page
 title: Experience
 permalink: /Experience/
 ---
-### Vice President, Products
+### Vice President, Product Management
 <h4>Two Sigma Investments</h4>
 Fev 2020 – present. New York, USA
 
-Discovering value in the world's data: products, ML, data.
+Modeling Engineering Product Management. Discovering value in the world's data: products, ML, data.
+
+
+
+### Mentor
+<h4>Data Science for All by Correlation One</h4>
+Sep 2020 – Sep 2021. New York, USA
+
+Helping create a more diverse global AI ecosystem. Mentorship of students and professionals who identify as Black, LatinX, female, veterans, LGBTQ+, and other underrepresented groups.
 
 ### Director, Strategic Innovation
 <h4>Axioma Inc.</h4>
