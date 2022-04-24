@@ -3,11 +3,11 @@ layout: page
 title: Experience
 permalink: /Experience/
 ---
-### Vice President, Product Management
+### VP of Product, Modeling Engineering
 <h4>Two Sigma Investments</h4>
 Fev 2020 – present. New York, USA
 
-Modeling Engineering Product Management. Discovering value in the world's data: products, ML, data.
+Discovering value in the world's data.
 
 
 
