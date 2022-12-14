@@ -3,13 +3,11 @@ layout: page
 title: Experience
 permalink: /Experience/
 ---
-### VP of Product, Modeling Engineering
+### Senior VP of Product Management, Modeling Engineering
 <h4>Two Sigma Investments</h4>
 Fev 2020 – present. New York, USA
 
-Discovering value in the world's data.
-
-
+Discovering value in the world's data, constantly advancing the bounds of our industry using a disciplined, scientific approach.
 
 ### Mentor
 <h4>Data Science for All by Correlation One</h4>
@@ -24,12 +22,6 @@ June 2019 – Feb 2020. New York, USA
 Director of Strategic Innovation at Qontigo, a recently formed financial intelligence company bringing together Axioma, DAX and STOXX to deliver the most sophisticated risk analytics and portfolio-construction tools as well as market-defining indices.
 
 Responsible for Product Incubation / AI / Advanced Analytics with a mission to create new fintech businesses that drive growth for the firm.
-
-### Creator
-<h4>OpenQuants</h4>
-Jan 2019 – Feb 2020. New York, USA
-
-Creator of Open Quants fostering open and reproducible research in Financial Data Science and Alternative Data.
 
 ### Vice President, Product Development
 <h4>Yewno, Inc.</h4>
