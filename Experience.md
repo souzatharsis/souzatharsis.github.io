@@ -9,6 +9,12 @@ Fev 2020 – present. New York, USA
 
 Discovering value in the world's data, constantly advancing the bounds of our industry using a disciplined, scientific approach.
 
+### Lecturer, Applied Analytics
+<h4>Columbia University</h4>
+June 2023 – present. New York, USA
+
+Faculty member of the MSc program in Applied Analytics teaching 'Solving real-world problems with analytics'.
+
 ### Mentor
 <h4>Data Science for All by Correlation One</h4>
 Sep 2020 – Sep 2021. New York, USA
