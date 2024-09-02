@@ -3,9 +3,15 @@ layout: page
 title: Experience
 permalink: /Experience/
 ---
+### GenAI
+<h4>code.org</h4>
+Aug 2024 – present.
+
+Non-profit, volunteering.
+
 ### Senior VP of Product Management, Modeling Engineering
 <h4>Two Sigma Investments</h4>
-Fev 2020 – present. New York, USA
+Fev 2020 – Jan 2024. New York, USA
 
 Discovering value in the world's data, constantly advancing the bounds of our industry using a disciplined, scientific approach.
 
