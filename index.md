@@ -4,7 +4,7 @@ layout: default-index
 <img style="width=305px;height=445px;float:left;padding:9px;"
 src="/image/p1.jpeg" alt="profile picture" width="192" height="256">
 <audio controls>
-  <source src="podcast_206a3263a4f04acb8eaef8c148a9e491.mp3" type="audio/mpeg">
+  <source src="https://github.com/souzatharsis/podcastfy/raw/refs/heads/main/usage/data/audio/podcast_d3a3660df7d94a5991c905bff141322c.mp3" type="audio/mpeg">
 </audio>
 
 Tharsis Souza is a computer scientist passionate about data-driven products. He is Senior Vice President of Product Management, Modeling Engineering at [Two Sigma](https://www.twosigma.com/) Investments and Lecturer at Columbia University, Faculty member of the MSc. in Applied Analytics program.
