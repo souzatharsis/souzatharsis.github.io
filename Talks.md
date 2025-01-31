@@ -4,6 +4,10 @@ title: Talks
 permalink: /Talks/
 ---
 
+- **Unpacking DeepSeek and the Future of AI in Finance**. Alpha Intelligence Podcast, 2025.
+
+- **Generative AI, LLMs, & the Evolution of Technology Product Teams**. The New Barbarians Podcast, 2025.
+
 - **ICML 2023: LatinX in AI (LXAI) Research**. Panelist - Mentorship Panel. July, 2023.
 
 - **AAAI 2021: IAAI-21 AI in Practice Panel**. Moderator - AI Applications in Finance: Risks and Challenges in Deploying Real-World Businesses Solutions. Feb, 2021.
