@@ -3,11 +3,18 @@ layout: page
 title: Experience
 permalink: /Experience/
 ---
-### GenAI
-<h4>code.org</h4>
-Aug 2024 – present.
 
-Non-profit, volunteering.
+### Head of Product, Equities
+<h4>Citadel</h4>
+Fev 2025 – Present. New York, USA
+
+Discovering value in the world's data, constantly advancing the bounds of our industry using a disciplined, scientific approach.
+
+### GenAI
+<h4>Code.org</h4>
+Aug 2024 – Jan 2025.
+
+Has been a volunteer on our student learning team, helping us select the right models, figure out infrastructure, and advise on the safety of LLMs we put in front of students.
 
 ### Senior VP of Product Management, Modeling Engineering
 <h4>Two Sigma Investments</h4>
@@ -23,7 +30,7 @@ Faculty member of the MSc program in Applied Analytics teaching 'Solving real-wo
 
 ### Mentor
 <h4>Data Science for All by Correlation One</h4>
-Sep 2020 – present. New York, USA
+Sep 2020 – Sep 2022. New York, USA
 
 Helping create a more diverse global AI ecosystem. Mentorship of students and professionals who identify as Black, LatinX, female, veterans, LGBTQ+, and other underrepresented groups.
 
