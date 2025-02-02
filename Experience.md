@@ -8,13 +8,13 @@ permalink: /Experience/
 <h4>Citadel</h4>
 Fev 2025 – Present. New York, USA
 
-Discovering value in the world's data, constantly advancing the bounds of our industry using a disciplined, scientific approach.
+I run products for Citadel's Equities businesses.
 
 ### GenAI
 <h4>Code.org</h4>
 Aug 2024 – Jan 2025.
 
-Has been a volunteer on our student learning team, helping us select the right models, figure out infrastructure, and advise on the safety of LLMs we put in front of students.
+Has been a volunteer on student learning team, helping select the right models, figure out infrastructure, and advise on the safety of LLMs we put in front of students.
 
 ### Senior VP of Product Management, Modeling Engineering
 <h4>Two Sigma Investments</h4>
