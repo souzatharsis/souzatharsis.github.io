@@ -1,8 +1,8 @@
 ---
 layout: default-index
 ---
-<img style="width=244px;height=356px;float:left;padding:9px;"
-src="/image/Tharsis.png" alt="profile picture" width="192" height="256">
+<img style="width=305px;height=445px;float:left;padding:9px;"
+src="/image/Tharsis.png" alt="profile picture" width="154" height="205">
 
 Tharsis Souza is Head of Product, Equities at [Citadel](https://www.citadel.com/) and Lecturer at [Columbia University](https://www.columbia.edu/). 
 
