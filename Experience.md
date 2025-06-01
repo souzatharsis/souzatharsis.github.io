@@ -4,15 +4,9 @@ title: Experience
 permalink: /Experience/
 ---
 
-### Head of Product, Equities
-<h4>Citadel</h4>
-Fev 2025 – Present. New York, USA
-
-I run products for Citadel's Equities businesses.
-
 ### GenAI
 <h4>Code.org</h4>
-Aug 2024 – Jan 2025.
+Aug 2024 – .
 
 Has been a volunteer on student learning team, helping select the right models, figure out infrastructure, and advise on the safety of LLMs we put in front of students.
 
